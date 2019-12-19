@@ -25,7 +25,7 @@ public class TermsAndCondition extends AppCompatActivity {
         goBack.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
         getSupportActionBar().setHomeAsUpIndicator(goBack);
 
-        //go back button
+        //Go back button
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
