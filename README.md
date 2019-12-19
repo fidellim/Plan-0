@@ -5,7 +5,6 @@ Help students with the following features
 
 - Schedule
 - Reminder
-- Study Report
 - Pomodoro Timer
 - Calendar
 - Exam
