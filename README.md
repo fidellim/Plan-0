@@ -7,6 +7,6 @@ Help students with the following features
 - Reminder
 - Study Report
 - Pomodoro Timer
-- Professor
+- Calendar
 - Exam
 - Task
